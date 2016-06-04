@@ -1,0 +1,22 @@
+"http://genomics-pubs.princeton.edu/oncology/affydata/names.html"
+
+
+# Given a sentence reverse the sentence and each word in the sentence
+# "this, is a sample!" -> "!elpmas a si ,siht"
+
+# Given a sentence reverse each word
+# "this, is a sample!" -> ",siht si a !elpmas"
+
+# In a sentence with words swap
+"this is a easy sample!" -> "sample! easy a is this"
+
+
+" given 2 lists; generate a  list with pairs"
+first_list = ["red", "yellow"]
+second_list = ["apple", "banana"]
+list = [("red", "apple"), ("yellow", "banana")]
+
+# Given a list of integers; return a list that has square of elements in input list
+[1,2,3] => [1, 4, 9] using map function in python
+
+map, reduce: list comprehension
